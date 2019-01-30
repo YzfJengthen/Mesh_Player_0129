@@ -18,6 +18,9 @@ public class ObjFromFile : MonoBehaviour
         temp = new GameObject();
         //System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
         //sw.Start();
+        //Path = @"C:\Users\vive_1\Desktop\zf\mesh";
+        //Files = Directory.GetFiles(Path, "*.obj");
+        //Mtls = Directory.GetFiles(Path, "*.mtl");
         //temp = loadedObj.Load(Files[0], Mtls[0]);
         //sw.Stop();
         //TimeSpan ts2 = sw.Elapsed;
